@@ -6,23 +6,27 @@ used freely for any BUT harmful and commercial purposes
 the game engine was developed entirely with borland delphi 
 by aukiogames. 
  
-TSS Game - © Aukiogames
+TSS Game - Â© Aukiogames
 http://www.aukiogames.com 
 
-Credits
+# Credits
 
-_code
+## Code
 Antti Lehto (Gebbiz)
 
-_lead graphic artists
+## Lead Graphic Artists
 Peter Finnberg (stormi)
+
 Sami Kalliokoski (ceesam)
 
-_graphic artists
+## Graphic Artists
 Joonas Makila (manfex)
+
 Pekka Suutari (PeXi)
+
 Mikko Tyni (mty)
 
-_audio and music
+## Audio and Music
 Joonas Kaski (Templar)
+
 Mikko Rainio (dnaaa)
